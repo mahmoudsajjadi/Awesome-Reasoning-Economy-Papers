@@ -255,6 +255,7 @@
 #### 4.1 &nbsp;&nbsp; Input-side Optimization
 ##### 4.1.1 &nbsp;&nbsp; Adaptive Budget Allocation before Decoding
 
+- [More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs (PACE)](https://huggingface.co/papers/2611.17610) ([Code](https://github.com/mahmoudsajjadi/pace) | [Studio](https://huggingface.co/spaces/sajjadi/pace-studio))
 - [Following Length Constraints in Instructions](https://arxiv.org/abs/2406.17744)
 - [Make Every Penny Count: Difficulty-Adaptive Self-Consistency for Cost-Efficient Reasoning](http://arxiv.org/abs/2408.13457)
 - [Token-Budget-Aware LLM Reasoning](https://arxiv.org/abs/2412.18547)
